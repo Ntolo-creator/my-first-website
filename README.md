@@ -1,6 +1,6 @@
 ## About this project
 This repository contains my firts HTML website.
-I am learning web developement and UX design building a beginner portfolio for the BBD 2026 programme.
+I am learning web developement and UX/UI design building a beginner portfolio for the BBD 2026 programme.
 
 ## What's inside
 - index.html - main webpage
