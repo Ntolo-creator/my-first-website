@@ -1,5 +1,5 @@
 ## About this project
-This repository contains my firts HTML website.
+This repository contains my first HTML website.
 I am learning web developement and UX/UI design building a beginner portfolio for the BBD 2026 programme.
 
 ## What's inside
